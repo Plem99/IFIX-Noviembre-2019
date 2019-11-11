@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="ifixdb" Class="ifix_DBDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=ifix.database.windows.net;Initial Catalog=ifixdb;Persist Security Info=True;User ID=raulballeza" SettingsObjectName="iFix.Properties.Settings" SettingsPropertyName="ifixdbConnectionString" Provider="System.Data.SqlClient" />
+  <Function Name="dbo.obtenerServicios" Method="obtenerServicios">
+    <ElementType Name="obtenerServiciosResult">
+      <Column Name="nombre" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="costo" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.obtenerVehiculos" Method="obtenerVehiculos">
+    <ElementType Name="obtenerVehiculosResult">
+      <Column Name="num_serie" Type="System.String" DbType="Char(17) NOT NULL" CanBeNull="false" />
+      <Column Name="marca" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="modelo" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="anio" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="color" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="alarma" Type="System.Char" DbType="Char(1)" CanBeNull="true" />
+      <Column Name="cristales_electricos" Type="System.Char" DbType="Char(1)" CanBeNull="true" />
+      <Column Name="gps" Type="System.Char" DbType="Char(1)" CanBeNull="true" />
+      <Column Name="airbag" Type="System.Char" DbType="Char(1)" CanBeNull="true" />
+      <Column Name="observaciones" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.mostrarClientes" Method="mostrarClientes">
+    <ElementType Name="mostrarClientesResult">
+      <Column Name="id_cliente" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="nombre" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="usuario" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="contrasena" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="numero_de_telefono" Type="System.String" DbType="VarChar(15) NOT NULL" CanBeNull="false" />
+      <Column Name="email" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.agregarCliente" Method="agregarCliente">
+    <Parameter Name="nombre" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="usuario" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="contrasena" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="numero_de_telefono" Type="System.String" DbType="VarChar(15)" />
+    <Parameter Name="email" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.obtenerNombreCliente" Method="obtenerNombreCliente">
+    <ElementType Name="obtenerNombreClienteResult">
+      <Column Name="nombre" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="usuario" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.ingresarServicio" Method="ingresarServicio">
+    <Parameter Name="nombreServicio" Type="System.String" DbType="VarChar(75)" />
+    <Parameter Name="costo" Type="System.Double" DbType="Float" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.borrarServicio" Method="borrarServicio">
+    <Parameter Name="nombreServicio" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.escogerServicio" Method="escogerServicio">
+    <Parameter Name="nombreServicio" Type="System.String" DbType="VarChar(50)" />
+    <ElementType Name="escogerServicioResult">
+      <Column Name="id_servicio" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="nombre" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="costo" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.actualizarServicio" Method="actualizarServicio">
+    <Parameter Name="nombreServicio" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="nuevoServicio" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="nuevoCosto" Type="System.Double" DbType="Float" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.obtenerVehiculos_Cliente" Method="obtenerVehiculos_Cliente">
+    <Parameter Name="user" Type="System.String" DbType="VarChar(50)" />
+    <ElementType Name="obtenerVehiculos_ClienteResult">
+      <Column Name="id_vehiculo" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="foto" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="num_serie" Type="System.String" DbType="Char(17) NOT NULL" CanBeNull="false" />
+      <Column Name="marca" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="modelo" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="anio" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="color" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="alarma" Type="System.Char" DbType="Char(1)" CanBeNull="true" />
+      <Column Name="cristales_electricos" Type="System.Char" DbType="Char(1)" CanBeNull="true" />
+      <Column Name="gps" Type="System.Char" DbType="Char(1)" CanBeNull="true" />
+      <Column Name="airbag" Type="System.Char" DbType="Char(1)" CanBeNull="true" />
+      <Column Name="observaciones" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Column Name="cliente_id_cliente" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="c_tipo_de_vehiculo_id_tipo" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.obtenerTipo" Method="obtenerTipo">
+    <ElementType Name="obtenerTipoResult">
+      <Column Name="id_tipo" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="tipo" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="descripcion" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.ingresarVehiculo" Method="ingresarVehiculo">
+    <Parameter Name="num_serie" Type="System.String" DbType="VarChar(17)" />
+    <Parameter Name="marca" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="modelo" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="anio" Type="System.Int32" DbType="Int" />
+    <Parameter Name="color" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="alarma" Type="System.Char" DbType="Char(1)" />
+    <Parameter Name="cristales_electricos" Type="System.Char" DbType="Char(1)" />
+    <Parameter Name="gps" Type="System.Char" DbType="Char(1)" />
+    <Parameter Name="airbag" Type="System.Char" DbType="Char(1)" />
+    <Parameter Name="observaciones" Type="System.String" DbType="NVarChar(250)" />
+    <Parameter Name="usuario" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="tipo" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.obtenerVehiculosEstado" Method="obtenerVehiculosEstado">
+    <Parameter Name="p_edo" Type="System.Int32" DbType="Int" />
+    <ElementType Name="obtenerVehiculosEstadoResult">
+      <Column Name="Cliente" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="numero_de_telefono" Type="System.String" DbType="VarChar(15) NOT NULL" CanBeNull="false" />
+      <Column Name="modelo" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="marca" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="color" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="num_serie" Type="System.String" DbType="Char(17) NOT NULL" CanBeNull="false" />
+      <Column Name="anio" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="estado" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="fecha_entrada" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="fecha_salida" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="fecha_terminacion" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.borrarCliente" Method="borrarCliente">
+    <Parameter Name="nombre" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.getServicioId" Method="getServicioId">
+    <Parameter Name="nombreServ" Type="System.String" DbType="VarChar(50)" />
+    <ElementType Name="getServicioIdResult">
+      <Column Name="id_servicio" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.getVehiculoId" Method="getVehiculoId">
+    <Parameter Name="numSerie" Type="System.String" DbType="Char(17)" />
+    <ElementType Name="getVehiculoIdResult">
+      <Column Name="id_vehiculo" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.obtenerServicioId" Method="obtenerServicioId" IsComposable="true">
+    <Parameter Name="nombreServ" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.obtenerVehiculoId" Method="obtenerVehiculoId" IsComposable="true">
+    <Parameter Name="numSerie" Type="System.String" DbType="Char(17)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.setLastIdVehiculoServicio" Method="setLastIdVehiculoServicio">
+    <Parameter Name="idVehiculo" Type="System.Int32" DbType="Int" />
+    <Parameter Name="idServicio" Type="System.Int32" DbType="Int" />
+    <Parameter Name="idEstadoVehiculo" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.obtenerCosto" Method="obtenerCosto" IsComposable="true">
+    <Parameter Name="nombreSer" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Double" />
+  </Function>
+  <Function Name="dbo.agregarVenta" Method="agregarVenta">
+    <Parameter Name="total" Type="System.Double" DbType="Float" />
+    <Parameter Name="numServicios" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.obtenerServicios_vehiculo" Method="obtenerServicios_vehiculo">
+    <Parameter Name="p_id_vehiculo" Type="System.Int32" DbType="Int" />
+    <ElementType Name="obtenerServicios_vehiculoResult">
+      <Column Name="nombre" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="estado" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="costo" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="fecha_salida" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.ingresarFechaSalida" Method="ingresarFechaSalida">
+    <Parameter Name="idVehiculo" Type="System.Int32" DbType="Int" />
+    <Parameter Name="fechaS" Type="System.DateTime" DbType="Date" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.ingresarFechaTerminacion" Method="ingresarFechaTerminacion">
+    <Parameter Name="idVehiculo" Type="System.Int32" DbType="Int" />
+    <Parameter Name="idServicio" Type="System.Int32" DbType="Int" />
+    <Parameter Name="fechaT" Type="System.DateTime" DbType="Date" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.obtenerServiciosVehiculoTerminacion" Method="obtenerServiciosVehiculoTerminacion">
+    <Parameter Name="p_id_vehiculo" Type="System.Int32" DbType="Int" />
+    <ElementType Name="obtenerServiciosVehiculoTerminacionResult">
+      <Column Name="nombre" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="estado" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="costo" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="fecha_salida" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+    </ElementType>
+  </Function>
+</Database>

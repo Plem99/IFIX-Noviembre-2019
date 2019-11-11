@@ -1,0 +1,1077 @@
+C:\Users\iceca\Desktop\iFix\iFix\bin\Debug\iFix.exe.config
+C:\Users\iceca\Desktop\iFix\iFix\bin\Debug\iFix.exe
+C:\Users\iceca\Desktop\iFix\iFix\bin\Debug\iFix.pdb
+C:\Users\iceca\Desktop\iFix\iFix\obj\Debug\iFix.InicioSesion.resources
+C:\Users\iceca\Desktop\iFix\iFix\obj\Debug\iFix.Properties.Resources.resources
+C:\Users\iceca\Desktop\iFix\iFix\obj\Debug\iFix.csproj.GenerateResource.cache
+C:\Users\iceca\Desktop\iFix\iFix\obj\Debug\iFix.csproj.CoreCompileInputs.cache
+C:\Users\iceca\Desktop\iFix\iFix\obj\Debug\iFix.exe
+C:\Users\iceca\Desktop\iFix\iFix\obj\Debug\iFix.pdb
+C:\Users\iceca\Desktop\iFix\iFix\obj\Debug\iFix.Menu.resources
+C:\Users\iceca\Desktop\iFix\iFix\obj\Debug\iFix.Plantilla.resources
+C:\Users\iceca\Desktop\iFix\iFix\obj\Debug\iFix.Clientes.resources
+C:\Users\iceca\Desktop\iFix\iFix\obj\Debug\iFix.Reportes.resources
+C:\Users\iceca\Desktop\iFix\iFix\obj\Debug\iFix.Servicios.resources
+C:\Users\iceca\Desktop\iFix\iFix\obj\Debug\iFix.Vehiculos.resources
+C:\Users\iceca\Desktop\iFix\iFix\obj\Debug\iFix.Venta.resources
+C:\Users\iceca\Desktop\iFix\iFix\obj\Debug\iFix.csprojAssemblyReference.cache
+C:\Users\Acer\Documents\Sexto\ADS\IFIX\iFix\obj\Debug\iFix.csprojAssemblyReference.cache
+C:\Users\Acer\Documents\Sexto\ADS\IFIX\iFix\obj\Debug\iFix.exe
+C:\Users\Acer\Documents\Sexto\ADS\IFIX\iFix\obj\Debug\iFix.pdb
+C:\Users\Acer\Documents\Sexto\ADS\IFIX\iFix\bin\Debug\iFix.exe.config
+C:\Users\Acer\Documents\Sexto\ADS\IFIX\iFix\bin\Debug\iFix.exe
+C:\Users\Acer\Documents\Sexto\ADS\IFIX\iFix\bin\Debug\iFix.pdb
+C:\Users\Acer\Documents\Sexto\ADS\IFIX\iFix\obj\Debug\iFix.Clientes.resources
+C:\Users\Acer\Documents\Sexto\ADS\IFIX\iFix\obj\Debug\iFix.InicioSesion.resources
+C:\Users\Acer\Documents\Sexto\ADS\IFIX\iFix\obj\Debug\iFix.Menu.resources
+C:\Users\Acer\Documents\Sexto\ADS\IFIX\iFix\obj\Debug\iFix.Plantilla.resources
+C:\Users\Acer\Documents\Sexto\ADS\IFIX\iFix\obj\Debug\iFix.Properties.Resources.resources
+C:\Users\Acer\Documents\Sexto\ADS\IFIX\iFix\obj\Debug\iFix.Reportes.resources
+C:\Users\Acer\Documents\Sexto\ADS\IFIX\iFix\obj\Debug\iFix.Servicios.resources
+C:\Users\Acer\Documents\Sexto\ADS\IFIX\iFix\obj\Debug\iFix.Vehiculos.resources
+C:\Users\Acer\Documents\Sexto\ADS\IFIX\iFix\obj\Debug\iFix.Venta.resources
+C:\Users\Acer\Documents\Sexto\ADS\IFIX\iFix\obj\Debug\iFix.csproj.GenerateResource.cache
+C:\Users\Acer\Documents\Sexto\ADS\IFIX\iFix\obj\Debug\iFix.csproj.CoreCompileInputs.cache
+C:\Users\Marisol\Desktop\IFIX\iFix\bin\Debug\iFix.exe.config
+C:\Users\Marisol\Desktop\IFIX\iFix\bin\Debug\iFix.exe
+C:\Users\Marisol\Desktop\IFIX\iFix\bin\Debug\iFix.pdb
+C:\Users\Marisol\Desktop\IFIX\iFix\obj\Debug\iFix.csprojAssemblyReference.cache
+C:\Users\Marisol\Desktop\IFIX\iFix\obj\Debug\iFix.Clientes.resources
+C:\Users\Marisol\Desktop\IFIX\iFix\obj\Debug\iFix.InicioSesion.resources
+C:\Users\Marisol\Desktop\IFIX\iFix\obj\Debug\iFix.Menu.resources
+C:\Users\Marisol\Desktop\IFIX\iFix\obj\Debug\iFix.Plantilla.resources
+C:\Users\Marisol\Desktop\IFIX\iFix\obj\Debug\iFix.Properties.Resources.resources
+C:\Users\Marisol\Desktop\IFIX\iFix\obj\Debug\iFix.Reportes.resources
+C:\Users\Marisol\Desktop\IFIX\iFix\obj\Debug\iFix.Servicios.resources
+C:\Users\Marisol\Desktop\IFIX\iFix\obj\Debug\iFix.Vehiculos.resources
+C:\Users\Marisol\Desktop\IFIX\iFix\obj\Debug\iFix.Venta.resources
+C:\Users\Marisol\Desktop\IFIX\iFix\obj\Debug\iFix.csproj.GenerateResource.cache
+C:\Users\Marisol\Desktop\IFIX\iFix\obj\Debug\iFix.csproj.CoreCompileInputs.cache
+C:\Users\Marisol\Desktop\IFIX\iFix\obj\Debug\iFix.exe
+C:\Users\Marisol\Desktop\IFIX\iFix\obj\Debug\iFix.pdb
+C:\Users\iceca\Desktop\Nuevo iFix\IFIX\iFix\bin\Debug\iFix.exe.config
+C:\Users\iceca\Desktop\Nuevo iFix\IFIX\iFix\bin\Debug\iFix.exe
+C:\Users\iceca\Desktop\Nuevo iFix\IFIX\iFix\bin\Debug\iFix.pdb
+C:\Users\iceca\Desktop\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.csprojAssemblyReference.cache
+C:\Users\iceca\Desktop\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.Clientes.resources
+C:\Users\iceca\Desktop\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.InicioSesion.resources
+C:\Users\iceca\Desktop\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.Menu.resources
+C:\Users\iceca\Desktop\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.Plantilla.resources
+C:\Users\iceca\Desktop\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.Properties.Resources.resources
+C:\Users\iceca\Desktop\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.Reportes.resources
+C:\Users\iceca\Desktop\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.Servicios.resources
+C:\Users\iceca\Desktop\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.Vehiculos.resources
+C:\Users\iceca\Desktop\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.Venta.resources
+C:\Users\iceca\Desktop\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.csproj.GenerateResource.cache
+C:\Users\iceca\Desktop\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.csproj.CoreCompileInputs.cache
+C:\Users\iceca\Desktop\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.exe
+C:\Users\iceca\Desktop\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.pdb
+C:\Users\iceca\Desktop\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.AgregarCliente.resources
+C:\Users\iceca\Desktop\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.AñadirVehiculo.resources
+C:\Users\xxbro\Documents\Escuela\ADS\Nuevo iFix\IFIX\iFix\bin\Debug\iFix.exe.config
+C:\Users\xxbro\Documents\Escuela\ADS\Nuevo iFix\IFIX\iFix\bin\Debug\iFix.exe
+C:\Users\xxbro\Documents\Escuela\ADS\Nuevo iFix\IFIX\iFix\bin\Debug\iFix.pdb
+C:\Users\xxbro\Documents\Escuela\ADS\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.csprojAssemblyReference.cache
+C:\Users\xxbro\Documents\Escuela\ADS\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.AgregarCliente.resources
+C:\Users\xxbro\Documents\Escuela\ADS\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.AñadirVehiculo.resources
+C:\Users\xxbro\Documents\Escuela\ADS\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.Clientes.resources
+C:\Users\xxbro\Documents\Escuela\ADS\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.InicioSesion.resources
+C:\Users\xxbro\Documents\Escuela\ADS\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.Menu.resources
+C:\Users\xxbro\Documents\Escuela\ADS\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.Plantilla.resources
+C:\Users\xxbro\Documents\Escuela\ADS\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.Properties.Resources.resources
+C:\Users\xxbro\Documents\Escuela\ADS\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.Reportes.resources
+C:\Users\xxbro\Documents\Escuela\ADS\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.Servicios.resources
+C:\Users\xxbro\Documents\Escuela\ADS\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.Vehiculos.resources
+C:\Users\xxbro\Documents\Escuela\ADS\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.Venta.resources
+C:\Users\xxbro\Documents\Escuela\ADS\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.csproj.GenerateResource.cache
+C:\Users\xxbro\Documents\Escuela\ADS\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.csproj.CoreCompileInputs.cache
+C:\Users\xxbro\Documents\Escuela\ADS\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.exe
+C:\Users\xxbro\Documents\Escuela\ADS\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.pdb
+C:\Users\xxbro\Documents\Escuela\ADS\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.AñadirServicio.resources
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\Nuevo iFix\IFIX\iFix\bin\Debug\iFix.exe.config
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\Nuevo iFix\IFIX\iFix\bin\Debug\iFix.exe
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\Nuevo iFix\IFIX\iFix\bin\Debug\iFix.pdb
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.csprojAssemblyReference.cache
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.AgregarCliente.resources
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.AñadirServicio.resources
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.AñadirVehiculo.resources
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.Clientes.resources
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.InicioSesion.resources
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.Menu.resources
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.Plantilla.resources
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.Properties.Resources.resources
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.Reportes.resources
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.Servicios.resources
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.Vehiculos.resources
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.Venta.resources
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.csproj.GenerateResource.cache
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.csproj.CoreCompileInputs.cache
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.exe
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\Nuevo iFix\IFIX\iFix\obj\Debug\iFix.pdb
+C:\Users\Acer\Desktop\iFix\IFIX\iFix\bin\Debug\iFix.exe.config
+C:\Users\Acer\Desktop\iFix\IFIX\iFix\bin\Debug\iFix.exe
+C:\Users\Acer\Desktop\iFix\IFIX\iFix\bin\Debug\iFix.pdb
+C:\Users\Acer\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.AgregarCliente.resources
+C:\Users\Acer\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.AñadirServicio.resources
+C:\Users\Acer\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.AñadirVehiculo.resources
+C:\Users\Acer\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.Clientes.resources
+C:\Users\Acer\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.InicioSesion.resources
+C:\Users\Acer\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.Menu.resources
+C:\Users\Acer\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.Plantilla.resources
+C:\Users\Acer\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.Properties.Resources.resources
+C:\Users\Acer\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.Reportes.resources
+C:\Users\Acer\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.Servicios.resources
+C:\Users\Acer\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.Vehiculos.resources
+C:\Users\Acer\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.Venta.resources
+C:\Users\Acer\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.exe
+C:\Users\Acer\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.pdb
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\iFix.exe.config
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\iFix.exe
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\iFix.pdb
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\obj\Debug\iFix.csprojAssemblyReference.cache
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\obj\Debug\iFix.AgregarCliente.resources
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\obj\Debug\iFix.AñadirServicio.resources
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\obj\Debug\iFix.AñadirVehiculo.resources
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\obj\Debug\iFix.BorrarCliente.resources
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\obj\Debug\iFix.Clientes.resources
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\obj\Debug\iFix.InicioSesion.resources
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\obj\Debug\iFix.Menu.resources
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\obj\Debug\iFix.Plantilla.resources
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\obj\Debug\iFix.Properties.Resources.resources
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\obj\Debug\iFix.Reportes.resources
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\obj\Debug\iFix.Servicios.resources
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\obj\Debug\iFix.Vehiculos.resources
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\obj\Debug\iFix.Venta.resources
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\obj\Debug\iFix.csproj.GenerateResource.cache
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\obj\Debug\iFix.csproj.CoreCompileInputs.cache
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\obj\Debug\iFix.exe
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\obj\Debug\iFix.pdb
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\obj\Debug\iFix.BorrarServicio.resources
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\obj\Debug\iFix.EditarServicio.resources
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\EnvDTE.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\stdole.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\Microsoft.MSXML.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\obj\Debug\iFix.csproj.CopyComplete
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\obj\Debug\iFix.VehiculoTerminacion.resources
+C:\Users\xxbro\Documents\Escuela\Sexto\ADS\iFix\IFIX\iFix\obj\Debug\iFix.VehiculoSalida.resources
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\iFix.exe.config
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\iFix.exe
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\iFix.pdb
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\EnvDTE.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\stdole.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\Microsoft.MSXML.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\obj\Debug\iFix.AgregarCliente.resources
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\obj\Debug\iFix.AñadirServicio.resources
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\obj\Debug\iFix.AñadirVehiculo.resources
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\obj\Debug\iFix.BorrarCliente.resources
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\obj\Debug\iFix.BorrarServicio.resources
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\obj\Debug\iFix.Clientes.resources
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\obj\Debug\iFix.EditarServicio.resources
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\obj\Debug\iFix.InicioSesion.resources
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\obj\Debug\iFix.Menu.resources
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\obj\Debug\iFix.Plantilla.resources
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\obj\Debug\iFix.Properties.Resources.resources
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\obj\Debug\iFix.Reportes.resources
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\obj\Debug\iFix.Servicios.resources
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\obj\Debug\iFix.Vehiculos.resources
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\obj\Debug\iFix.VehiculoSalida.resources
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\obj\Debug\iFix.VehiculoTerminacion.resources
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\obj\Debug\iFix.Venta.resources
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\obj\Debug\iFix.csproj.GenerateResource.cache
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\obj\Debug\iFix.csproj.CoreCompileInputs.cache
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\obj\Debug\iFix.csproj.CopyComplete
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\obj\Debug\iFix.exe
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\obj\Debug\iFix.pdb
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\iFix.exe.config
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\iFix.exe
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\iFix.pdb
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\EnvDTE.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\stdole.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\Microsoft.MSXML.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.csprojAssemblyReference.cache
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.AgregarCliente.resources
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.AñadirServicio.resources
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.AñadirVehiculo.resources
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.BorrarCliente.resources
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.BorrarServicio.resources
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.Clientes.resources
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.EditarServicio.resources
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.InicioSesion.resources
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.Menu.resources
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.Plantilla.resources
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.Properties.Resources.resources
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.Reportes.resources
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.Servicios.resources
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.Vehiculos.resources
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.VehiculoSalida.resources
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.VehiculoTerminacion.resources
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.Venta.resources
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.csproj.GenerateResource.cache
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.csproj.CoreCompileInputs.cache
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.csproj.CopyComplete
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.exe
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.pdb
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\obj\Debug\RdlCompile.cache
+C:\Users\xxbro\Desktop\iFix\IFIX\iFix\obj\Debug\RdlCompile.compiled
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Downloads\iFix\IFIX\iFix\obj\Debug\iFix.csprojAssemblyReference.cache
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\iFix.exe.config
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\iFix.exe
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\iFix.pdb
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\EnvDTE.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\stdole.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\obj\Debug\iFix.csprojAssemblyReference.cache
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\obj\Debug\iFix.AgregarCliente.resources
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\obj\Debug\iFix.AñadirServicio.resources
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\obj\Debug\iFix.AñadirVehiculo.resources
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\obj\Debug\iFix.BorrarCliente.resources
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\obj\Debug\iFix.BorrarServicio.resources
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\obj\Debug\iFix.Clientes.resources
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\obj\Debug\iFix.EditarServicio.resources
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\obj\Debug\iFix.InicioSesion.resources
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\obj\Debug\iFix.Menu.resources
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\obj\Debug\iFix.Plantilla.resources
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\obj\Debug\iFix.Properties.Resources.resources
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\obj\Debug\iFix.Reportes.resources
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\obj\Debug\iFix.Servicios.resources
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\obj\Debug\iFix.Vehiculos.resources
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\obj\Debug\iFix.VehiculoSalida.resources
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\obj\Debug\iFix.VehiculoTerminacion.resources
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\obj\Debug\iFix.Venta.resources
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\obj\Debug\iFix.csproj.GenerateResource.cache
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\obj\Debug\iFix.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\obj\Debug\iFix.csproj.CopyComplete
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\obj\Debug\iFix.exe
+C:\Users\Elizabeth Soto\Desktop\iFix\iFix\IFIX\iFix\obj\Debug\iFix.pdb
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.csprojAssemblyReference.cache
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.AgregarCliente.resources
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.AñadirServicio.resources
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.AñadirVehiculo.resources
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.BorrarCliente.resources
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.BorrarServicio.resources
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.Clientes.resources
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.EditarServicio.resources
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.InicioSesion.resources
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.Menu.resources
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.Plantilla.resources
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.Properties.Resources.resources
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.Reportes.resources
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.Servicios.resources
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.Vehiculos.resources
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.VehiculoSalida.resources
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.VehiculoTerminacion.resources
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.Venta.resources
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.csproj.GenerateResource.cache
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.csproj.CoreCompileInputs.cache
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.exe
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.pdb
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\iFix.exe.config
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\iFix.exe
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\iFix.pdb
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\EnvDTE.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\stdole.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\Microsoft.MSXML.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Desktop\iFix\IFIX\iFix\obj\Debug\iFix.csproj.CopyComplete
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\iFix.exe.config
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\iFix.exe
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\iFix.pdb
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\EnvDTE.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\stdole.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\obj\Debug\iFix.csprojAssemblyReference.cache
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\obj\Debug\iFix.AgregarCliente.resources
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\obj\Debug\iFix.AñadirServicio.resources
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\obj\Debug\iFix.AñadirVehiculo.resources
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\obj\Debug\iFix.BorrarCliente.resources
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\obj\Debug\iFix.BorrarServicio.resources
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\obj\Debug\iFix.Clientes.resources
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\obj\Debug\iFix.EditarServicio.resources
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\obj\Debug\iFix.InicioSesion.resources
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\obj\Debug\iFix.Menu.resources
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\obj\Debug\iFix.Plantilla.resources
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\obj\Debug\iFix.Properties.Resources.resources
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\obj\Debug\iFix.Reportes.resources
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\obj\Debug\iFix.Servicios.resources
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\obj\Debug\iFix.Vehiculos.resources
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\obj\Debug\iFix.VehiculoSalida.resources
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\obj\Debug\iFix.VehiculoTerminacion.resources
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\obj\Debug\iFix.Venta.resources
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\obj\Debug\iFix.csproj.GenerateResource.cache
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\obj\Debug\iFix.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\obj\Debug\iFix.csproj.CopyComplete
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\obj\Debug\iFix.exe
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\obj\Debug\iFix.pdb
+C:\Users\Elizabeth Soto\Pictures\IFIX\IFIX\iFix\obj\Debug\iFix.Lupa.resources
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\iFix.exe.config
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\iFix.exe
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\iFix.pdb
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\EnvDTE.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\stdole.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\Microsoft.MSXML.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\obj\Debug\iFix.csprojAssemblyReference.cache
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\obj\Debug\iFix.AgregarCliente.resources
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\obj\Debug\iFix.AñadirServicio.resources
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\obj\Debug\iFix.AñadirVehiculo.resources
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\obj\Debug\iFix.BorrarCliente.resources
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\obj\Debug\iFix.BorrarServicio.resources
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\obj\Debug\iFix.Clientes.resources
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\obj\Debug\iFix.EditarServicio.resources
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\obj\Debug\iFix.InicioSesion.resources
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\obj\Debug\iFix.Lupa.resources
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\obj\Debug\iFix.Lupa2.resources
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\obj\Debug\iFix.Menu.resources
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\obj\Debug\iFix.Plantilla.resources
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\obj\Debug\iFix.Properties.Resources.resources
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\obj\Debug\iFix.Reportes.resources
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\obj\Debug\iFix.Servicios.resources
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\obj\Debug\iFix.Vehiculos.resources
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\obj\Debug\iFix.VehiculoSalida.resources
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\obj\Debug\iFix.VehiculoTerminacion.resources
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\obj\Debug\iFix.Venta.resources
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\obj\Debug\iFix.csproj.GenerateResource.cache
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\obj\Debug\iFix.csproj.CoreCompileInputs.cache
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\obj\Debug\iFix.csproj.CopyComplete
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\obj\Debug\iFix.exe
+C:\Users\iceca\Documents\IFIX\IFIX\iFix\obj\Debug\iFix.pdb
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\obj\Debug\iFix.csprojAssemblyReference.cache
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\obj\Debug\iFix.AgregarCliente.resources
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\obj\Debug\iFix.AñadirServicio.resources
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\obj\Debug\iFix.AñadirVehiculo.resources
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\obj\Debug\iFix.BorrarCliente.resources
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\obj\Debug\iFix.BorrarServicio.resources
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\obj\Debug\iFix.Clientes.resources
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\obj\Debug\iFix.EditarServicio.resources
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\obj\Debug\iFix.InicioSesion.resources
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\obj\Debug\iFix.Lupa2.resources
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\obj\Debug\iFix.Menu.resources
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\obj\Debug\iFix.Plantilla.resources
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\obj\Debug\iFix.Properties.Resources.resources
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\obj\Debug\iFix.Reportes.resources
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\obj\Debug\iFix.Servicios.resources
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\obj\Debug\iFix.Vehiculos.resources
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\obj\Debug\iFix.VehiculoSalida.resources
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\obj\Debug\iFix.VehiculoTerminacion.resources
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\obj\Debug\iFix.Venta.resources
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\obj\Debug\iFix.csproj.GenerateResource.cache
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\obj\Debug\iFix.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\obj\Debug\iFix.exe
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\obj\Debug\iFix.pdb
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\iFix.exe.config
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\iFix.exe
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\iFix.pdb
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\EnvDTE.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\stdole.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Elizabeth Soto\Music\IFIX\IFIX\IFIX\iFix\obj\Debug\iFix.csproj.CopyComplete
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\iFix.exe.config
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\iFix.exe
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\iFix.pdb
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\EnvDTE.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\stdole.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\obj\Debug\iFix.csprojAssemblyReference.cache
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\obj\Debug\iFix.AgregarCliente.resources
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\obj\Debug\iFix.AñadirServicio.resources
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\obj\Debug\iFix.AñadirVehiculo.resources
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\obj\Debug\iFix.BorrarCliente.resources
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\obj\Debug\iFix.BorrarServicio.resources
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\obj\Debug\iFix.Clientes.resources
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\obj\Debug\iFix.EditarServicio.resources
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\obj\Debug\iFix.InicioSesion.resources
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\obj\Debug\iFix.Lupa2.resources
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\obj\Debug\iFix.Menu.resources
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\obj\Debug\iFix.Plantilla.resources
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\obj\Debug\iFix.Properties.Resources.resources
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\obj\Debug\iFix.Reportes.resources
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\obj\Debug\iFix.Servicios.resources
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\obj\Debug\iFix.Vehiculos.resources
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\obj\Debug\iFix.VehiculoSalida.resources
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\obj\Debug\iFix.VehiculoTerminacion.resources
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\obj\Debug\iFix.Venta.resources
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\obj\Debug\iFix.csproj.GenerateResource.cache
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\obj\Debug\RdlCompile.cache
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\obj\Debug\RdlCompile.compiled
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\obj\Debug\iFix.csproj.CoreCompileInputs.cache
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\obj\Debug\iFix.csproj.CopyComplete
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\obj\Debug\iFix.exe
+C:\Users\Plem\Desktop\FINALPROYECTO\IFIX\iFix\obj\Debug\iFix.pdb
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\iFix.exe.config
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\iFix.exe
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\iFix.pdb
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\EnvDTE.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\stdole.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\Microsoft.MSXML.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\obj\Debug\iFix.csprojAssemblyReference.cache
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\obj\Debug\iFix.AgregarCliente.resources
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\obj\Debug\iFix.AñadirServicio.resources
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\obj\Debug\iFix.AñadirVehiculo.resources
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\obj\Debug\iFix.BorrarCliente.resources
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\obj\Debug\iFix.BorrarServicio.resources
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\obj\Debug\iFix.Clientes.resources
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\obj\Debug\iFix.EditarServicio.resources
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\obj\Debug\iFix.InicioSesion.resources
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\obj\Debug\iFix.Lupa2.resources
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\obj\Debug\iFix.Menu.resources
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\obj\Debug\iFix.Plantilla.resources
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\obj\Debug\iFix.Properties.Resources.resources
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\obj\Debug\iFix.Reportes.resources
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\obj\Debug\iFix.Servicios.resources
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\obj\Debug\iFix.Vehiculos.resources
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\obj\Debug\iFix.VehiculoSalida.resources
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\obj\Debug\iFix.VehiculoTerminacion.resources
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\obj\Debug\iFix.Venta.resources
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\obj\Debug\iFix.csproj.GenerateResource.cache
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\obj\Debug\iFix.csproj.CoreCompileInputs.cache
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\obj\Debug\iFix.csproj.CopyComplete
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\obj\Debug\iFix.exe
+C:\Users\iceca\Documents\UPV\CUATRI VII\IFIX\iFix\obj\Debug\iFix.pdb
+C:\Users\Plem\Desktop\IFIX\iFix\obj\Debug\iFix.csprojAssemblyReference.cache
+C:\Users\Plem\Desktop\IFIX\iFix\obj\Debug\iFix.AgregarCliente.resources
+C:\Users\Plem\Desktop\IFIX\iFix\obj\Debug\iFix.AñadirServicio.resources
+C:\Users\Plem\Desktop\IFIX\iFix\obj\Debug\iFix.AñadirVehiculo.resources
+C:\Users\Plem\Desktop\IFIX\iFix\obj\Debug\iFix.BorrarCliente.resources
+C:\Users\Plem\Desktop\IFIX\iFix\obj\Debug\iFix.BorrarServicio.resources
+C:\Users\Plem\Desktop\IFIX\iFix\obj\Debug\iFix.Clientes.resources
+C:\Users\Plem\Desktop\IFIX\iFix\obj\Debug\iFix.EditarServicio.resources
+C:\Users\Plem\Desktop\IFIX\iFix\obj\Debug\iFix.InicioSesion.resources
+C:\Users\Plem\Desktop\IFIX\iFix\obj\Debug\iFix.Lupa2.resources
+C:\Users\Plem\Desktop\IFIX\iFix\obj\Debug\iFix.Menu.resources
+C:\Users\Plem\Desktop\IFIX\iFix\obj\Debug\iFix.Plantilla.resources
+C:\Users\Plem\Desktop\IFIX\iFix\obj\Debug\iFix.Properties.Resources.resources
+C:\Users\Plem\Desktop\IFIX\iFix\obj\Debug\iFix.Reportes.resources
+C:\Users\Plem\Desktop\IFIX\iFix\obj\Debug\iFix.Servicios.resources
+C:\Users\Plem\Desktop\IFIX\iFix\obj\Debug\iFix.Vehiculos.resources
+C:\Users\Plem\Desktop\IFIX\iFix\obj\Debug\iFix.VehiculoSalida.resources
+C:\Users\Plem\Desktop\IFIX\iFix\obj\Debug\iFix.VehiculoTerminacion.resources
+C:\Users\Plem\Desktop\IFIX\iFix\obj\Debug\iFix.Venta.resources
+C:\Users\Plem\Desktop\IFIX\iFix\obj\Debug\iFix.csproj.GenerateResource.cache
+C:\Users\Plem\Desktop\IFIX\iFix\obj\Debug\RdlCompile.cache
+C:\Users\Plem\Desktop\IFIX\iFix\obj\Debug\RdlCompile.compiled
+C:\Users\Plem\Desktop\IFIX\iFix\obj\Debug\iFix.csproj.CoreCompileInputs.cache
+C:\Users\Plem\Desktop\IFIX\iFix\obj\Debug\iFix.exe
+C:\Users\Plem\Desktop\IFIX\iFix\obj\Debug\iFix.pdb
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\iFix.exe.config
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\iFix.exe
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\iFix.pdb
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\EnvDTE.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\stdole.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Plem\Desktop\IFIX\iFix\obj\Debug\iFix.csproj.CopyComplete

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iFix", "iFix\iFix.csproj", "{047FA733-A3D6-455E-ABC7-A6D1052CB3A5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "iFix_Instalador", "iFix_Instalador\iFix_Instalador.vdproj", "{B4D4B477-3511-4EB8-AAB7-AEA4F4975FC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{047FA733-A3D6-455E-ABC7-A6D1052CB3A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{047FA733-A3D6-455E-ABC7-A6D1052CB3A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{047FA733-A3D6-455E-ABC7-A6D1052CB3A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{047FA733-A3D6-455E-ABC7-A6D1052CB3A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4D4B477-3511-4EB8-AAB7-AEA4F4975FC8}.Debug|Any CPU.ActiveCfg = Debug
+		{B4D4B477-3511-4EB8-AAB7-AEA4F4975FC8}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F70EB1A-618A-4BD5-8801-965E63BAAE3D}
+	EndGlobalSection
+EndGlobal
