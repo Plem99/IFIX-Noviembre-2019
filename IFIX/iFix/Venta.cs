@@ -295,23 +295,23 @@ namespace iFix
             if (cboUsuario.Text.Equals("juan2019"))
             {
                 cboVehiculo.Items.Clear();
-                cboVehiculo.Items.Add("123");
-                cboVehiculo.Items.Add("124");
-                cboVehiculo.Items.Add("125");
+                cboVehiculo.Items.Add("Mazda 6");
+                cboVehiculo.Items.Add("Jeep Cheeroke");
+                cboVehiculo.Items.Add("Chevy");
             }
             else if (cboUsuario.Text.Equals("prueba01"))
             {
                 cboVehiculo.Items.Clear();
-                cboVehiculo.Items.Add("133");
-                cboVehiculo.Items.Add("134");
-                cboVehiculo.Items.Add("135");
+                cboVehiculo.Items.Add("Escape");
+                cboVehiculo.Items.Add("Jeep Wrangler");
+                cboVehiculo.Items.Add("Accord");
             }
             else if (cboUsuario.Text.Equals("carlos99"))
             {
                 cboVehiculo.Items.Clear();
-                cboVehiculo.Items.Add("143");
-                cboVehiculo.Items.Add("144");
-                cboVehiculo.Items.Add("145");
+                cboVehiculo.Items.Add("Rav4");
+                cboVehiculo.Items.Add("Suburban");
+                cboVehiculo.Items.Add("Yaris");
             }
         }
 

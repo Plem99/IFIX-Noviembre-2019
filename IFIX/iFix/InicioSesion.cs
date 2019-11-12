@@ -134,7 +134,7 @@ namespace iFix
         }
 
         private void InicioSesion_Load(object sender, EventArgs e) {
-            speech.SpeakAsync("Bienvenido a IFIX, Se encuentra en el inicio de sesión");
+            speech.SpeakAsync("Bienvenido a AIFIX, Se encuentra en el inicio de sesión");
             txtUsuario.GotFocus += new EventHandler(this.TextGotFocusUser);
             txtUsuario.LostFocus += new EventHandler(this.TextLostFocusUser);
 
@@ -151,7 +151,7 @@ namespace iFix
             speech.Volume = 100;
             speech.Rate = 0;
             speech.SpeakAsyncCancelAll();
-            speech.SpeakAsync("Boton de Olvidé mi Contraseña");
+            speech.SpeakAsync("Botón de Olvidé mi Contraseña");
         }
 
         public void BtnGotFocusInicioSesion(object sender, EventArgs e)
@@ -160,7 +160,7 @@ namespace iFix
             speech.Volume = 100;
             speech.Rate = 0;
             speech.SpeakAsyncCancelAll();
-            speech.SpeakAsync("Boton de Inicio de Sesión");
+            speech.SpeakAsync("Botón de Inicio de Sesión");
         }
 
         public void TextGotFocusUser(object sender, EventArgs e)

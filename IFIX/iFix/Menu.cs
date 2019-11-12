@@ -54,42 +54,42 @@ namespace iFix
             speech.Volume = 100;
             speech.Rate = 0;
             
-            speech.SpeakAsync("Se encuantra en: Boton de Ventas");
+            speech.SpeakAsync("Se encuantra en: Botón de Ventas");
         }
         public void BtnGotFocusbtnClientes(object sender, EventArgs e)
         {
             speech.Volume = 100;
             speech.Rate = 0;
             speech.SpeakAsyncCancelAll();
-            speech.SpeakAsync("Se encuantra en: Boton de Visualización de Clientes");
+            speech.SpeakAsync("Se encuantra en: Botón de Visualización de Clientes");
         }
         public void BtnGotFocusbtnVehiculos(object sender, EventArgs e)
         {
             speech.Volume = 100;
             speech.Rate = 0;
             speech.SpeakAsyncCancelAll();
-            speech.SpeakAsync("Se encuantra en: Boton de Visualización de Vehículos");
+            speech.SpeakAsync("Se encuantra en: Botón de Visualización de Vehículos");
         }
         public void BtnGotFocusbtnServicios(object sender, EventArgs e)
         {
             speech.Volume = 100;
             speech.Rate = 0;
             speech.SpeakAsyncCancelAll();
-            speech.SpeakAsync("Se encuantra en: Boton de Visualización de Servicios");
+            speech.SpeakAsync("Se encuantra en: Botón de Visualización de Servicios");
         }
         public void BtnGotFocusbtnReportes(object sender, EventArgs e)
         {
             speech.Volume = 100;
             speech.Rate = 0;
             speech.SpeakAsyncCancelAll();
-            speech.SpeakAsync("Se encuantra en: Boton de Visualización de Reportes");
+            speech.SpeakAsync("Se encuantra en: Botón de Visualización de Reportes");
         }
         public void BtnGotFocusbtnAyuda(object sender, EventArgs e)
         {
             speech.Volume = 100;
             speech.Rate = 0;
             speech.SpeakAsyncCancelAll();
-            speech.SpeakAsync("Se encuantra en: Boton de Ayuda");
+            speech.SpeakAsync("Se encuantra en: Botón de Ayuda");
         }
 
 

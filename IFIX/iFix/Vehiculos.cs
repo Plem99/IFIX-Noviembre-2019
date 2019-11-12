@@ -141,7 +141,7 @@ namespace iFix
         }
 
         private void Vehiculos_Load(object sender, EventArgs e) {
-            speech.SpeakAsync("Ingresó a los registros de vehpiculos, En esta página se despliegan los vehiculos y sus datos principales.");
+            speech.SpeakAsync("Ingresó a los registros de vehpiculos, En esta página se despliegan los vehículos y sus datos principales.");
             DataGridViewRow row = (DataGridViewRow)dgVehiculos.Rows[0].Clone();
             row.Cells[0].Value = "Focus";
             row.Cells[1].Value = "123";
@@ -295,6 +295,7 @@ namespace iFix
         {
             if (e.KeyCode == Keys.F1) //Venta
             {
+                speech.SpeakAsyncCancelAll();
                 getAyuda();
                 //System.Diagnostics.Process.Start("MUsuario.pdf");
             }

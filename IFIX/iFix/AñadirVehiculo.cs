@@ -93,8 +93,8 @@ namespace iFix
                 txtSerie.Focus();
             } else if (txtSerie.Text.Length < 16)
             {
-                speech.SpeakAsync("Ingrese un número de serie correcto.");
-                MessageBox.Show("Ingrese un número de serie correcto.", "Advertencia.", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                speech.SpeakAsync("Ingrese un número de serie correcto, ingrese los 17 números correspondientes.");
+                MessageBox.Show("Ingrese un número de serie correcto.\n" + "Ingrese los 17 números correspondientes.", "Advertencia.", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                 txtSerie.Focus();
             }
             else if (txtMarca.Text == "")
@@ -334,8 +334,38 @@ namespace iFix
 
         private void button2_Click(object sender, EventArgs e)
         {
-            speech.SpeakAsyncCancelAll();
-            this.Close();
+            
+                if (txtSerie.Text == "" && txtColor.Text == "" &&
+                     txtMarca.Text == "" && txtModelo.Text == "" &&
+                     txtAno.Text == "" && txtObs.Text == "" &&
+                     checkBox1.Checked == false && checkBox2.Checked == false &&
+                     checkBox3.Checked == false && checkBox4.Checked == false &&
+                     checkBox5.Checked == false && checkBox6.Checked == false &&
+                     checkBox7.Checked == false && checkBox8.Checked == false)
+                {
+                    speech.SpeakAsyncCancelAll();
+                    this.Close();
+                }
+                else
+                {
+                    speech.SpeakAsyncCancelAll();
+                    speech.SpeakAsync("¿Seguro que desea salir?");
+                    DialogResult result = MessageBox.Show("¿Seguro que desea salir?", "Advertencia.", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+
+
+                    if (result == DialogResult.Yes)
+                    {
+                        speech.SpeakAsyncCancelAll();
+                        this.Close();
+
+                    }
+                    else if (result == DialogResult.No)
+                    {
+                    }
+                }
+            
+            //speech.SpeakAsyncCancelAll();
+            // this.Close();
         }
 
         private void groupBox2_Enter(object sender, EventArgs e)
@@ -480,8 +510,8 @@ namespace iFix
                 else if (txtSerie.Text.Length < 16)
                 {
                     speech.SpeakAsyncCancelAll();
-                    speech.SpeakAsync("Ingrese un número de serie correcto.");
-                    MessageBox.Show("Ingrese un número de serie correcto.", "Advertencia.", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                    speech.SpeakAsync("Ingrese un número de serie correcto ingrese los 17 números correspondientes.");
+                    MessageBox.Show("Ingrese un número de serie correcto.\n" + "Ingrese los 17 números correspondientes.", "Advertencia.", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                     txtSerie.Focus();
                 }
                 else if (txtMarca.Text == "")

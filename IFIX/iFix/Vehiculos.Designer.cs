@@ -30,6 +30,7 @@
         {
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Vehiculos));
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.ventaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.clientesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -44,16 +45,16 @@
             this.terminadosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.pendientesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.dgVehiculos = new System.Windows.Forms.DataGridView();
-            this.Vehiculo = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.NumSerie = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Dueno = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Salida = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.btnSal = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
             this.ayu = new System.Windows.Forms.ToolTip(this.components);
             this.fin = new System.Windows.Forms.ToolTip(this.components);
             this.label2 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
+            this.Vehiculo = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.NumSerie = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Dueno = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Salida = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.menuStrip1.SuspendLayout();
             this.SeleccionOrden.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgVehiculos)).BeginInit();
@@ -214,34 +215,6 @@
             this.dgVehiculos.TabIndex = 3;
             this.dgVehiculos.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgVehiculos_CellContentClick);
             // 
-            // Vehiculo
-            // 
-            this.Vehiculo.HeaderText = "Vehículo";
-            this.Vehiculo.Name = "Vehiculo";
-            this.Vehiculo.ReadOnly = true;
-            this.Vehiculo.Width = 120;
-            // 
-            // NumSerie
-            // 
-            this.NumSerie.HeaderText = "Número de serie";
-            this.NumSerie.Name = "NumSerie";
-            this.NumSerie.ReadOnly = true;
-            this.NumSerie.Width = 180;
-            // 
-            // Dueno
-            // 
-            this.Dueno.HeaderText = "Dueño";
-            this.Dueno.Name = "Dueno";
-            this.Dueno.ReadOnly = true;
-            this.Dueno.Width = 120;
-            // 
-            // Salida
-            // 
-            this.Salida.HeaderText = "Fecha de salida";
-            this.Salida.Name = "Salida";
-            this.Salida.ReadOnly = true;
-            this.Salida.Width = 200;
-            // 
             // btnSal
             // 
             this.btnSal.BackColor = System.Drawing.Color.Transparent;
@@ -299,6 +272,36 @@
             this.button1.Visible = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // Vehiculo
+            // 
+            this.Vehiculo.HeaderText = "Vehículo";
+            this.Vehiculo.Name = "Vehiculo";
+            this.Vehiculo.ReadOnly = true;
+            this.Vehiculo.Width = 120;
+            // 
+            // NumSerie
+            // 
+            dataGridViewCellStyle1.Padding = new System.Windows.Forms.Padding(0, 0, 1, 0);
+            this.NumSerie.DefaultCellStyle = dataGridViewCellStyle1;
+            this.NumSerie.HeaderText = "Número de serie";
+            this.NumSerie.Name = "NumSerie";
+            this.NumSerie.ReadOnly = true;
+            this.NumSerie.Width = 180;
+            // 
+            // Dueno
+            // 
+            this.Dueno.HeaderText = "Dueño";
+            this.Dueno.Name = "Dueno";
+            this.Dueno.ReadOnly = true;
+            this.Dueno.Width = 120;
+            // 
+            // Salida
+            // 
+            this.Salida.HeaderText = "Fecha de salida";
+            this.Salida.Name = "Salida";
+            this.Salida.ReadOnly = true;
+            this.Salida.Width = 200;
+            // 
             // Vehiculos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -348,13 +351,13 @@
         private System.Windows.Forms.DataGridView dgVehiculos;
         private System.Windows.Forms.Button btnSal;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Vehiculo;
-        private System.Windows.Forms.DataGridViewTextBoxColumn NumSerie;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Dueno;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Salida;
         private System.Windows.Forms.ToolTip ayu;
         private System.Windows.Forms.ToolTip fin;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Vehiculo;
+        private System.Windows.Forms.DataGridViewTextBoxColumn NumSerie;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Dueno;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Salida;
     }
 }

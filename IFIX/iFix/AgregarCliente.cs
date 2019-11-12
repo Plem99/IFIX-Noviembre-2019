@@ -377,9 +377,32 @@ namespace iFix
 
         private void button1_Click_1(object sender, EventArgs e)
         {
-            speech.SpeakAsyncCancelAll();
-            this.Close();
-            
+            if (txtNombre.Text == "" && txtApellido.Text == ""
+                    && txtUsuario.Text == "" && txtContrasena.Text == ""
+                    && txtTelefono.Text.Equals("000-000-0000") && txtCorreo.Text == "")
+            {
+                speech.SpeakAsyncCancelAll();
+                this.Close();
+            }
+            else
+            {
+                speech.SpeakAsyncCancelAll();
+                speech.SpeakAsync("¿Seguro que desea salir?");
+                DialogResult result = MessageBox.Show("¿Seguro que desea salir?", "Advertencia.", MessageBoxButtons.YesNo, MessageBoxIcon.Exclamation);
+
+
+                if (result == DialogResult.Yes)
+                {
+                    speech.SpeakAsyncCancelAll();
+                    this.Close();
+                }
+                else if (result == DialogResult.No)
+                {
+                }
+            }
+            //speech.SpeakAsyncCancelAll();
+            //this.Close();
+
         }
 
         private void label3_Click(object sender, EventArgs e)
